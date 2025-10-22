@@ -148,6 +148,4 @@ MIT License © 2025 Ashish Konagalla
 * [OpenAI](https://openai.com) for embeddings + LLM API
 * [FAISS](https://github.com/facebookresearch/faiss) for vector search
 
-````
 
----
